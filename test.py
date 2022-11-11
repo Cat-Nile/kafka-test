@@ -1,7 +1,2 @@
-
-
-
-with open('fire.csv', 'r', encoding='euc-kr') as obj:
-    csv_reader = reader(obj)
-    header = next(csv_reader)
-    print(header)
+a = [i*j for i in range(1,10) for j in range(1,10)]
+print(a)
