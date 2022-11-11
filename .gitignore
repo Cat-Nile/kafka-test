@@ -1,6 +1,9 @@
 fire.*
 .DS_Store
 .idea
+config.py
+test.py
+
 # Created by https://www.gitignore.io/api/python,django
 
 ### Django ###
